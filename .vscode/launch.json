@@ -1,0 +1,141 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Maain",
+            "request": "launch",
+            "mainClass": "Maain",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "p10",
+            "request": "launch",
+            "mainClass": "p10",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "D",
+            "request": "launch",
+            "mainClass": "D",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "p9",
+            "request": "launch",
+            "mainClass": "p9",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "fabbonacci",
+            "request": "launch",
+            "mainClass": "fabbonacci",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "p4",
+            "request": "launch",
+            "mainClass": "p4",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "p5",
+            "request": "launch",
+            "mainClass": "p5",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "pp3",
+            "request": "launch",
+            "mainClass": "pp3",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "p3",
+            "request": "launch",
+            "mainClass": "p3",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "OperationsDemo",
+            "request": "launch",
+            "mainClass": "OperationsDemo",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "arr",
+            "request": "launch",
+            "mainClass": "arr",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "p2",
+            "request": "launch",
+            "mainClass": "p2",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "p1",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "funtion",
+            "request": "launch",
+            "mainClass": "funtion",
+            "projectName": "DsaWithJava_fab8c7d2"
+        },
+        {
+            "type": "java",
+            "name": "empabh",
+            "request": "launch",
+            "mainClass": "empabh",
+            "projectName": "DsaWithJava_fab8c7d2"
+        }
+    ]
+}

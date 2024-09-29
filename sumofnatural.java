@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class sumofnatural {
     public static void main(String[] args) {
         int sum=0,n;

@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/abhay/DsaCourse/DsaWithJava/output/bubble'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _bubbleSort, symObjAddr: 0x0, symBinAddr: 0x100003D08, symSize: 0xFC }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _bubbleSort, symObjAddr: 0x0, symBinAddr: 0x100003D08, symSize: 0xFC }
+  - { offsetInCU: 0x9D, offset: 0x9D, size: 0x8, addend: 0x0, symName: _printArray, symObjAddr: 0xFC, symBinAddr: 0x100003E04, symSize: 0x84 }
+  - { offsetInCU: 0xEB, offset: 0xEB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x180, symBinAddr: 0x100003E88, symSize: 0xB8 }
+...
